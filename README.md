@@ -1,10 +1,14 @@
-![eyeballs counter on GitHub](https://komarev.com/ghpvc/?username=spikedbat) ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎  ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎
+![](https://komarev.com/ghpvc/?username=spikedbat&color=ff80ba&style=plastic&label=deers+caught) ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎  ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎
  ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎  ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ 
 <p align="center">
-@excessivedeath <i>!!</i>
+
 </p>
 <p align="center">
-  <img src="https://64.media.tumblr.com/2a97047d26aaf4e8c8a04d8ced1058c9/c334dd266048737d-4e/s2048x3072/a5c2b991039fd6ffd56b7c3fcea56f1f1a7f137d.pnj" height="450" width="390" alt="stu" >
+  <img src="https://graphic.neocities.org/horse1.gif" height="100" width="130" alt="stu" >
 </p>
-<p align="center">
- <a href=""></a>
+ <p align="center">
+<description>
+ <summary></summary>
+ hia
+</description>
+</p>
