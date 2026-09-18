@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=spikedbat&color=ff80ba&style=plastic&label=deers+caught) ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎  ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎
  ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎  ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ 
 <p align="center">
-  <img src="https://graphic.neocities.org/Tiergem_33.gif" height="100" width="200" alt="stu" >
+  <img src="https://oceancake.carrd.co/assets/images/gallery18/7dd7870d.gif?v=edab04a1" height="150" width="200" alt="stu" >
 </p>
 <p align="center">
   <img src="https://i.pinimg.com/1200x/ed/01/fd/ed01fd363fbbf98c5a42777b51d8ffa9.jpg" height="49" width="139" alt="stu" >
