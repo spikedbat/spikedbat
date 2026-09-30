@@ -9,7 +9,7 @@
  <p align="center">
 <details p align="center">
 <summary></summary>
-  for now justa place holder <i>!!</i>
+  joke its steve harrington 4 eva <i>!!</i>
   <p style="margin-bottom: 30px;"> </p>
   
 </details>
