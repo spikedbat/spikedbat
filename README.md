@@ -4,15 +4,13 @@
 
 </div>‎
 
-<p align="center"> <img src="https://i.pinimg.com/1200x/30/16/c3/3016c3520e627a540417d44ddcf0aec4.jpg" height="100" width="200" alt="stu" >
-</p>
-<p align="center">
-  <img src="https://i.pinimg.com/1200x/ed/01/fd/ed01fd363fbbf98c5a42777b51d8ffa9.jpg" height="49" width="139" alt="stu" >
+<p align="center"> <img src="https://i.pinimg.com/736x/bf/e6/9a/bfe69a003246498ad20fa908df19dba7.jpg" height="100" width="200" alt="stu" >
+
 </p>
  <p align="center">
 <details p align="center">
 <summary></summary>
-  joke its steve harrington 4 eva <i>!!</i>
+  wip
   <p style="margin-bottom: 30px;"> </p>
   
 </details>
